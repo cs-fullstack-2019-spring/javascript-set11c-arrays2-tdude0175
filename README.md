@@ -1,4 +1,4 @@
-# JavaScript_Set11b_Arrays2
+# JavaScript_Set11c_Arrays2
 
 Array Reference
 ```
